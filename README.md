@@ -1,24 +1,27 @@
 <h1 data-importer="text" align="center">Heya👋 I'm Harsh</h1>
 
-###
+<table>
+<tr>
+<td valign="top" width="65%">
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXozZGNlMW1va3duaGUwcGR3c3piaGRrY2pseWJmMjF6cWltNjh4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
-</div>
+### 👩‍💻 About Me
 
-###
+- 💼 Software Developer
+- ☕ Primarily working with VueJS and Java
+- ⚛️ Build full-stack applications with Spring Boot and React
+- 🏗️ Interested in System Design, Distributed Systems, and Cloud
+- 🎮 Huge gaming enthusiast (Elden Lord btw)
+- 📚 Always learning new stuff
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+</td>
 
-###
+<td align="center" width="35%">
 
-<p data-importer="text" align="left">- 💼 Software Developer<br>- ☕ Primarily working with VueJS and Java<br>- ⚛️ Build full-stack applications with Spring Boot and React<br>- 🏗️ Interested in System Design, Distributed Systems, and Cloud<br>- 🎮 Huge gaming enthusiast (Elden Lord btw)<br>- 📚 Always learning new stuff</p>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXozZGNlMW1va3duaGUwcGR3c3piaGRrY2pseWJmMjF6cWltNjh4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="250"/>
 
-###
-
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
-
-###
+</td>
+</tr>
+</table>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
