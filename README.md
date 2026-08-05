@@ -51,3 +51,6 @@
 </div>
 
 ###
+
+
+![Yuji](https://raw.githubusercontent.com/haha-rsh/haha-rsh/main/yuji-animation.svg)
