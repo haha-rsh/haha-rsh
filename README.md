@@ -1,8 +1,11 @@
 <h1 data-importer="text" align="center">Heya👋 I'm Harsh</h1>
 
-<table>
-<tr>
-<td valign="top" width="65%">
+<img
+  align="right"
+  alt="Coding"
+  width="220"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXozZGNlMW1va3duaGUwcGR3c3piaGRrY2pseWJmMjF6cWltNjh4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"
+/>
 
 ### 👩‍💻 About Me
 
@@ -12,16 +15,6 @@
 - 🏗️ Interested in System Design, Distributed Systems, and Cloud
 - 🎮 Huge gaming enthusiast (Elden Lord btw)
 - 📚 Always learning new stuff
-
-</td>
-
-<td align="center" width="35%">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXozZGNlMW1va3duaGUwcGR3c3piaGRrY2pseWJmMjF6cWltNjh4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="250"/>
-
-</td>
-</tr>
-</table>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
